@@ -1,0 +1,117 @@
+*{
+	box-sizing: border-box;
+}
+body
+{
+	margin:auto;
+	background-color: #231e20;
+}
+
+header
+{
+	background-color: #221d1e;
+	width: 100%;
+	height: 20vh;
+}
+
+.principal
+{
+	margin-left: 0.1rem;
+	margin-top: 1rem;
+	color: gold;
+}
+
+.textcuerpo
+{
+	margin-left: 0.1rem;
+	margin-top: 1rem;
+	color: white;
+}
+
+.cuadro1
+{
+	width: 100%;
+	height: 100px;
+	background-color: #3f3f41;
+}
+.cuadro2
+{
+	width: 100%;
+	height: 100px;
+	background-color: #2a2a2c;
+}
+.cuadro3
+{
+	width: 100%;
+	height: 100px;
+	background-color: #3f3f41;
+	margin-top: 1rem;
+}
+
+.cuadro4
+{
+	width: 100%;
+	height: 100px;
+	background-color: #2a2a2c;
+	margin-top: 1rem;
+
+}
+.cuadro5
+{
+	width: 100%;
+	height: 100px;
+	background-color: #3f3f41;
+	margin-top: 1rem;
+}
+
+.cuadro6
+{
+	width: 100%;
+	height: 100px;
+	background-color: #2a2a2c;
+	margin-top: 1rem;
+}
+
+.texto6
+{
+	color: white;
+	margin-top: 1rem;
+}
+
+.titulof1
+{
+	color: white;
+}
+
+.textofinal1
+{
+	color: white;
+}
+
+.titulof2
+{
+	color: white;
+}
+
+.textofinal2
+{
+	color: white;
+}
+
+.titulof3
+{
+	color: white;
+}
+.textofinal3
+{
+	color: white;
+}
+
+.titulof4
+{
+	color: white;
+}
+.textofinal4
+{
+	color: white;
+}

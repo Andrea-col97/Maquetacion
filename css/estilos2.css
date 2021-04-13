@@ -1,0 +1,102 @@
+*{
+	box-sizing: border-box;
+}
+body
+{
+	margin:auto;
+	background-color: #231e20;
+}
+
+header
+{
+	background-color: #221d1e;
+	width: 100%;
+	height: 50vh;
+}
+
+.distribucion
+{
+	background-color: #58585a;
+	display: flex;
+	justify-content: justify;
+	height: 20rem;	
+}
+
+.tituloprin
+{
+	margin-top: 2rem;
+	margin-left: 2rem;
+	color: white;
+}
+.textoti
+{
+	margin-top: 4.5rem;
+	margin-left: 2rem;
+	color: white;
+}
+.cuadroamarillo
+{
+	width: 15rem;
+	height: 15rem;
+	margin-top: 40px;
+	margin-left: 6.5rem;
+	background-color: orange;
+}
+
+.fila1
+{
+	width: 45vw;
+	float: left;
+}
+.cajagris
+{
+	width: 50vw;
+	height: 50vh;
+	background-color: #3f3f41;
+	margin-top: 50px;
+}
+.textogris
+{
+	color: white;
+	margin-top: 50px;
+}
+
+
+.fila2
+{
+	width: 25vw;
+	height: 100%;
+	background-color: #3f3f41;
+	float: right;
+}
+
+.tarjeta
+{
+	margin-left: 11px;
+}
+
+.g-0
+{
+	margin-top: 20px;
+}
+.titulona
+{
+	justify-content: justify;
+	margin-left: 40px;
+}
+.titulonaa
+{
+	justify-content: justify;
+	margin-left: 40px;
+}
+
+.contenedor
+{
+	margin-top: 100px;
+	justify-content: justify;
+	align-items: center;
+}
+h5
+{
+	color: orange;
+}

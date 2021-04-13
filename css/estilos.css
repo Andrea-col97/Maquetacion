@@ -1,0 +1,92 @@
+*{
+	box-sizing: border-box;
+}
+
+body
+{
+	margin: auto;
+	background-color: #221d1e;
+}
+
+header
+{
+	display: flex;
+	background-color: #404042;
+	width: 100%;
+	/*View height - Define la altura en viewport*/
+	height: 50vh;	
+}
+
+.distribucion
+{
+	display: flex;
+}
+.cajaroja
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #c21d3d;
+	width: 40vw;
+	height: 45vh;
+	margin:15px;
+		 
+}
+
+.triangulo
+{
+	width: 0;
+	height: 0;
+	border-left: 78px solid white;
+	border-top: 45px solid transparent;
+	border-bottom: 45px solid transparent; 
+}
+h1
+{
+	color: white;
+	text-align: center;
+	padding: 5px;
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+p
+{
+	color: white;
+	font-size: 15px;	
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+
+h2
+{
+	color: white;
+	font-size: 30px;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.parrafo
+{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	flex-direction:column;
+	padding: 30px;
+}	
+
+.rectangulonaranja
+{
+	background-color: orange;
+	display: flex;
+	width: 100%;
+	height: 10em;
+}
+.cajader
+{
+	background-color: #404042;
+
+}
+
